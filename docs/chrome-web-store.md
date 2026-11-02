@@ -89,3 +89,16 @@ Veri satılmaz; uzantının kişisel not amacı dışındaki kullanımlar için 
 - `docs/assets/store/promo-small.png`: 440 × 280 küçük tanıtım görseli.
 
 Yazar listesi/çöp kutusu görselleri temsili yazarlar içerir. Ekşi Sözlük ekranları gerçek, herkese açık bir sayfadan alınmıştır; üzerindeki not ayrı test profilinde oluşturulmuş örnek kayıttır. Kişisel test profilinden veri alınmaz.
+
+## Başvuru durumu — 2 Kasım 2026
+
+- 0.1.9 paketi Chrome Web Store incelemesine gönderildi; panel durumu **Pending review**.
+- Öğe kimliği: `pdjlhiljfimgkfeeliipmphdbdhjneia`.
+- Yayıncı: Ombryn; iletişim adresi doğrulandı. Kullanıcının beyanıyla ticari olmayan hesap seçildi.
+- Dağıtım: ücretsiz, herkese açık, tüm desteklenen bölgeler.
+- İnceleme başarılı olursa otomatik yayımlama etkin.
+- Mağazadaki ilk iki ekran gerçek Ekşi Sözlük sayfasındaki not kutusu ve not ekleme formudur.
+- Gizlilik sayfası HTTPS üzerinden HTTP 200 ile doğrulandı. Yerel işleme dahil üç veri kategorisi açıklandı; uzaktan kod kullanılmadığı belirtildi.
+- Paket SHA-256: `e335d29cafa1d6b07ddb6b9fd9c0ad2c12dc0d0e4fd9e32d9d0f36ef2f7776be`.
+
+Google'ın inceleme kararı henüz alınmadı; başvuru gönderilmesi mağazada yayımlandığı anlamına gelmez.

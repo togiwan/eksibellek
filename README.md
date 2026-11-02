@@ -47,7 +47,7 @@ Ekranların alındığı [Ekşi Sözlük başlığı](https://eksisozluk.com/soz
 
 ## Kurulum
 
-Chrome Web Store başvurusu hazırlanıyor. Bu sırada [Sürümler](https://github.com/togiwan/eksibellek/releases) sayfasından en güncel ZIP dosyasını indirip elle kurabilirsin:
+Chrome Web Store başvurusu Google incelemesinde. Onaylanana kadar [Sürümler](https://github.com/togiwan/eksibellek/releases) sayfasından en güncel ZIP dosyasını indirip elle kurabilirsin:
 
 1. ZIP dosyasını kalıcı olarak kullanacağın bir klasöre çıkar.
 2. Chrome'da `chrome://extensions` sayfasını açıp **Geliştirici modu**nu etkinleştir.
