@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+dist/
+*.zip
+*yedek*.json
+*backup*.json
+.env*
+playwright-report/
+test-results/
+
+__pycache__/
+*.pyc

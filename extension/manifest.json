@@ -1,0 +1,61 @@
+{
+  "manifest_version": 3,
+  "name": "EkşiBellek",
+  "version": "0.1.9",
+  "description": "Ekşi Sözlük yazarları için kişisel notlar. Yerel kayıt, etiketler, çöp kutusu ve JSON yedekleme.",
+  "minimum_chrome_version": "114",
+  "permissions": [
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_title": "EkşiBellek",
+    "default_popup": "pages/popup.html",
+    "default_icon": {
+      "16": "icons/16.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "128": "icons/128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/16.png",
+    "32": "icons/32.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  },
+  "options_ui": {
+    "page": "pages/app.html",
+    "open_in_tab": true
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://eksisozluk.com/*",
+        "https://www.eksisozluk.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "pages/app.html"
+      ],
+      "matches": [
+        "https://eksisozluk.com/*",
+        "https://www.eksisozluk.com/*"
+      ]
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'none'; connect-src 'none'; base-uri 'none'; form-action 'none'"
+  },
+  "homepage_url": "https://togiwan.github.io/eksibellek/"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "eksibellek",
+  "version": "0.1.9",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "check": "node scripts/check.mjs",
+    "package": "python3 scripts/package.py",
+    "check:persistence": "node scripts/check-persistence.mjs"
+  }
+}

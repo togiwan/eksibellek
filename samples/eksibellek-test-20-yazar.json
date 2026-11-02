@@ -1,0 +1,672 @@
+{
+  "format": "eksi-defter",
+  "schemaVersion": 2,
+  "exportedAt": "2026-11-02T10:00:00.000Z",
+  "revision": 40,
+  "authors": [
+    {
+      "key": "eksibellek-test-20-001",
+      "username": "eksibellek test 01",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "kısa not"
+      ],
+      "color": "green",
+      "createdAt": "2026-10-01T10:00:00.000Z",
+      "updatedAt": "2026-10-01T16:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-004",
+          "text": "Çöp kutusu örneği 1. Geri getirme ve kalıcı silme işlemlerini denemek için hazırlanmıştır.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-01T15:00:00.000Z",
+          "updatedAt": "2026-10-01T16:00:00.000Z",
+          "version": 2,
+          "archivedAt": null,
+          "trashedAt": "2026-10-01T16:00:00.000Z",
+          "history": []
+        },
+        {
+          "id": "eksibellek-test-20-003",
+          "text": "Arşiv örneği 1. Bu not arşivde başlar; arşiv filtresinden açıp geri getirebilirsin.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-01T13:00:00.000Z",
+          "updatedAt": "2026-10-01T14:00:00.000Z",
+          "version": 2,
+          "archivedAt": "2026-10-01T14:00:00.000Z",
+          "trashedAt": null,
+          "history": []
+        },
+        {
+          "id": "eksibellek-test-20-002",
+          "text": "Örnek yazar 1. Kısa not testi. Bu kayıt tamamen örnektir.\n\nGüncelleme: düzenleme geçmişini açarak önceki metni görebilirsin.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-01T10:00:00.000Z",
+          "updatedAt": "2026-10-01T12:00:00.000Z",
+          "version": 2,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": [
+            {
+              "text": "Örnek yazar 1. Kısa not testi. Bu kayıt tamamen örnektir.",
+              "sourceUrl": "",
+              "sourceTitle": "",
+              "savedAt": "2026-10-01T10:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-005",
+      "username": "eksibellek test 02",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "türkçe"
+      ],
+      "color": "blue",
+      "createdAt": "2026-10-02T10:00:00.000Z",
+      "updatedAt": "2026-10-02T16:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-008",
+          "text": "Çöp kutusu örneği 2. Geri getirme ve kalıcı silme işlemlerini denemek için hazırlanmıştır.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-02T15:00:00.000Z",
+          "updatedAt": "2026-10-02T16:00:00.000Z",
+          "version": 2,
+          "archivedAt": null,
+          "trashedAt": "2026-10-02T16:00:00.000Z",
+          "history": []
+        },
+        {
+          "id": "eksibellek-test-20-007",
+          "text": "Arşiv örneği 2. Bu not arşivde başlar; arşiv filtresinden açıp geri getirebilirsin.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-02T13:00:00.000Z",
+          "updatedAt": "2026-10-02T14:00:00.000Z",
+          "version": 2,
+          "archivedAt": "2026-10-02T14:00:00.000Z",
+          "trashedAt": null,
+          "history": []
+        },
+        {
+          "id": "eksibellek-test-20-006",
+          "text": "Örnek yazar 2. Türkçe karakter testi: ç, ğ, ı, İ, ö, ş, ü. Arama alanında bu kelimeleri deneyebilirsin.\n\nGüncelleme: düzenleme geçmişini açarak önceki metni görebilirsin.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-02T10:00:00.000Z",
+          "updatedAt": "2026-10-02T12:00:00.000Z",
+          "version": 2,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": [
+            {
+              "text": "Örnek yazar 2. Türkçe karakter testi: ç, ğ, ı, İ, ö, ş, ü. Arama alanında bu kelimeleri deneyebilirsin.",
+              "sourceUrl": "",
+              "sourceTitle": "",
+              "savedAt": "2026-10-02T10:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-009",
+      "username": "eksibellek test 03",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "arama"
+      ],
+      "color": "amber",
+      "createdAt": "2026-10-03T10:00:00.000Z",
+      "updatedAt": "2026-10-03T16:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-012",
+          "text": "Çöp kutusu örneği 3. Geri getirme ve kalıcı silme işlemlerini denemek için hazırlanmıştır.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-03T15:00:00.000Z",
+          "updatedAt": "2026-10-03T16:00:00.000Z",
+          "version": 2,
+          "archivedAt": null,
+          "trashedAt": "2026-10-03T16:00:00.000Z",
+          "history": []
+        },
+        {
+          "id": "eksibellek-test-20-011",
+          "text": "Arşiv örneği 3. Bu not arşivde başlar; arşiv filtresinden açıp geri getirebilirsin.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-03T13:00:00.000Z",
+          "updatedAt": "2026-10-03T14:00:00.000Z",
+          "version": 2,
+          "archivedAt": "2026-10-03T14:00:00.000Z",
+          "trashedAt": null,
+          "history": []
+        },
+        {
+          "id": "eksibellek-test-20-010",
+          "text": "Örnek yazar 3. Birinci gözlem: bu not arama ve sıralama özelliklerini denemek için eklendi.\n\nGüncelleme: düzenleme geçmişini açarak önceki metni görebilirsin.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-03T10:00:00.000Z",
+          "updatedAt": "2026-10-03T12:00:00.000Z",
+          "version": 2,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": [
+            {
+              "text": "Örnek yazar 3. Birinci gözlem: bu not arama ve sıralama özelliklerini denemek için eklendi.",
+              "sourceUrl": "",
+              "sourceTitle": "",
+              "savedAt": "2026-10-03T10:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-013",
+      "username": "eksibellek test 04",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "çok satırlı"
+      ],
+      "color": "rose",
+      "createdAt": "2026-10-04T10:00:00.000Z",
+      "updatedAt": "2026-10-04T14:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-015",
+          "text": "Arşiv örneği 4. Bu not arşivde başlar; arşiv filtresinden açıp geri getirebilirsin.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-04T13:00:00.000Z",
+          "updatedAt": "2026-10-04T14:00:00.000Z",
+          "version": 2,
+          "archivedAt": "2026-10-04T14:00:00.000Z",
+          "trashedAt": null,
+          "history": []
+        },
+        {
+          "id": "eksibellek-test-20-014",
+          "text": "Örnek yazar 4. Çok satırlı not testi.\n\nİkinci paragraf: satır aralıklarını ve kartın yüksekliğini kontrol edebilirsin.\n• İlk madde\n• İkinci madde\n\nGüncelleme: düzenleme geçmişini açarak önceki metni görebilirsin.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-04T10:00:00.000Z",
+          "updatedAt": "2026-10-04T12:00:00.000Z",
+          "version": 2,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": [
+            {
+              "text": "Örnek yazar 4. Çok satırlı not testi.\n\nİkinci paragraf: satır aralıklarını ve kartın yüksekliğini kontrol edebilirsin.\n• İlk madde\n• İkinci madde",
+              "sourceUrl": "",
+              "sourceTitle": "",
+              "savedAt": "2026-10-04T10:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-016",
+      "username": "eksibellek test 05",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "uzun not"
+      ],
+      "color": "slate",
+      "createdAt": "2026-10-05T10:00:00.000Z",
+      "updatedAt": "2026-10-05T14:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-018",
+          "text": "Arşiv örneği 5. Bu not arşivde başlar; arşiv filtresinden açıp geri getirebilirsin.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-05T13:00:00.000Z",
+          "updatedAt": "2026-10-05T14:00:00.000Z",
+          "version": 2,
+          "archivedAt": "2026-10-05T14:00:00.000Z",
+          "trashedAt": null,
+          "history": []
+        },
+        {
+          "id": "eksibellek-test-20-017",
+          "text": "Örnek yazar 5. Uzun not testi. Bu örnek metin, yazar listesindeki önizleme ile ayrıntı ekranının uzun metinleri nasıl gösterdiğini incelemek için hazırlandı. Dar eklenti penceresinde metnin düzgün kayması ve tüm içeriğin okunabilmesi beklenir. Arama, etiket filtresi, düzenleme, arşivleme ve çöp kutusundan geri getirme işlemlerini bu kayıt üzerinde deneyebilirsin.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-05T10:00:00.000Z",
+          "updatedAt": "2026-10-05T10:00:00.000Z",
+          "version": 1,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": []
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-019",
+      "username": "eksibellek test 06",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "kısa not"
+      ],
+      "color": "green",
+      "createdAt": "2026-10-06T10:00:00.000Z",
+      "updatedAt": "2026-10-06T10:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-020",
+          "text": "Örnek yazar 6. Kısa not testi. Bu kayıt tamamen örnektir.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-06T10:00:00.000Z",
+          "updatedAt": "2026-10-06T10:00:00.000Z",
+          "version": 1,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": []
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-021",
+      "username": "eksibellek test 07",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "türkçe"
+      ],
+      "color": "blue",
+      "createdAt": "2026-10-07T10:00:00.000Z",
+      "updatedAt": "2026-10-07T10:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-022",
+          "text": "Örnek yazar 7. Türkçe karakter testi: ç, ğ, ı, İ, ö, ş, ü. Arama alanında bu kelimeleri deneyebilirsin.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-07T10:00:00.000Z",
+          "updatedAt": "2026-10-07T10:00:00.000Z",
+          "version": 1,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": []
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-023",
+      "username": "eksibellek test 08",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "arama"
+      ],
+      "color": "amber",
+      "createdAt": "2026-10-08T10:00:00.000Z",
+      "updatedAt": "2026-10-08T10:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-024",
+          "text": "Örnek yazar 8. Birinci gözlem: bu not arama ve sıralama özelliklerini denemek için eklendi.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-08T10:00:00.000Z",
+          "updatedAt": "2026-10-08T10:00:00.000Z",
+          "version": 1,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": []
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-025",
+      "username": "eksibellek test 09",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "çok satırlı"
+      ],
+      "color": "rose",
+      "createdAt": "2026-10-09T10:00:00.000Z",
+      "updatedAt": "2026-10-09T10:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-026",
+          "text": "Örnek yazar 9. Çok satırlı not testi.\n\nİkinci paragraf: satır aralıklarını ve kartın yüksekliğini kontrol edebilirsin.\n• İlk madde\n• İkinci madde",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-09T10:00:00.000Z",
+          "updatedAt": "2026-10-09T10:00:00.000Z",
+          "version": 1,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": []
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-027",
+      "username": "eksibellek test 10",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "uzun not"
+      ],
+      "color": "slate",
+      "createdAt": "2026-10-10T10:00:00.000Z",
+      "updatedAt": "2026-10-10T10:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-028",
+          "text": "Örnek yazar 10. Uzun not testi. Bu örnek metin, yazar listesindeki önizleme ile ayrıntı ekranının uzun metinleri nasıl gösterdiğini incelemek için hazırlandı. Dar eklenti penceresinde metnin düzgün kayması ve tüm içeriğin okunabilmesi beklenir. Arama, etiket filtresi, düzenleme, arşivleme ve çöp kutusundan geri getirme işlemlerini bu kayıt üzerinde deneyebilirsin.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-10T10:00:00.000Z",
+          "updatedAt": "2026-10-10T10:00:00.000Z",
+          "version": 1,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": []
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-029",
+      "username": "eksibellek test 11",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "kısa not"
+      ],
+      "color": "green",
+      "createdAt": "2026-10-11T10:00:00.000Z",
+      "updatedAt": "2026-10-11T10:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-030",
+          "text": "Örnek yazar 11. Kısa not testi. Bu kayıt tamamen örnektir.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-11T10:00:00.000Z",
+          "updatedAt": "2026-10-11T10:00:00.000Z",
+          "version": 1,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": []
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-031",
+      "username": "eksibellek test 12",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "türkçe"
+      ],
+      "color": "blue",
+      "createdAt": "2026-10-12T10:00:00.000Z",
+      "updatedAt": "2026-10-12T10:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-032",
+          "text": "Örnek yazar 12. Türkçe karakter testi: ç, ğ, ı, İ, ö, ş, ü. Arama alanında bu kelimeleri deneyebilirsin.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-12T10:00:00.000Z",
+          "updatedAt": "2026-10-12T10:00:00.000Z",
+          "version": 1,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": []
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-033",
+      "username": "eksibellek test 13",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "arama"
+      ],
+      "color": "amber",
+      "createdAt": "2026-10-13T10:00:00.000Z",
+      "updatedAt": "2026-10-13T10:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-034",
+          "text": "Örnek yazar 13. Birinci gözlem: bu not arama ve sıralama özelliklerini denemek için eklendi.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-13T10:00:00.000Z",
+          "updatedAt": "2026-10-13T10:00:00.000Z",
+          "version": 1,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": []
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-035",
+      "username": "eksibellek test 14",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "çok satırlı"
+      ],
+      "color": "rose",
+      "createdAt": "2026-10-14T10:00:00.000Z",
+      "updatedAt": "2026-10-14T10:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-036",
+          "text": "Örnek yazar 14. Çok satırlı not testi.\n\nİkinci paragraf: satır aralıklarını ve kartın yüksekliğini kontrol edebilirsin.\n• İlk madde\n• İkinci madde",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-14T10:00:00.000Z",
+          "updatedAt": "2026-10-14T10:00:00.000Z",
+          "version": 1,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": []
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-037",
+      "username": "eksibellek test 15",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "uzun not"
+      ],
+      "color": "slate",
+      "createdAt": "2026-10-15T10:00:00.000Z",
+      "updatedAt": "2026-10-15T10:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-038",
+          "text": "Örnek yazar 15. Uzun not testi. Bu örnek metin, yazar listesindeki önizleme ile ayrıntı ekranının uzun metinleri nasıl gösterdiğini incelemek için hazırlandı. Dar eklenti penceresinde metnin düzgün kayması ve tüm içeriğin okunabilmesi beklenir. Arama, etiket filtresi, düzenleme, arşivleme ve çöp kutusundan geri getirme işlemlerini bu kayıt üzerinde deneyebilirsin.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-15T10:00:00.000Z",
+          "updatedAt": "2026-10-15T10:00:00.000Z",
+          "version": 1,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": []
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-039",
+      "username": "eksibellek test 16",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "kısa not"
+      ],
+      "color": "green",
+      "createdAt": "2026-10-16T10:00:00.000Z",
+      "updatedAt": "2026-10-16T10:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-040",
+          "text": "Örnek yazar 16. Kısa not testi. Bu kayıt tamamen örnektir.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-16T10:00:00.000Z",
+          "updatedAt": "2026-10-16T10:00:00.000Z",
+          "version": 1,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": []
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-041",
+      "username": "eksibellek test 17",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "türkçe"
+      ],
+      "color": "blue",
+      "createdAt": "2026-10-17T10:00:00.000Z",
+      "updatedAt": "2026-10-17T10:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-042",
+          "text": "Örnek yazar 17. Türkçe karakter testi: ç, ğ, ı, İ, ö, ş, ü. Arama alanında bu kelimeleri deneyebilirsin.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-17T10:00:00.000Z",
+          "updatedAt": "2026-10-17T10:00:00.000Z",
+          "version": 1,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": []
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-043",
+      "username": "eksibellek test 18",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "arama"
+      ],
+      "color": "amber",
+      "createdAt": "2026-10-18T10:00:00.000Z",
+      "updatedAt": "2026-10-18T10:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-044",
+          "text": "Örnek yazar 18. Birinci gözlem: bu not arama ve sıralama özelliklerini denemek için eklendi.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-18T10:00:00.000Z",
+          "updatedAt": "2026-10-18T10:00:00.000Z",
+          "version": 1,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": []
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-045",
+      "username": "eksibellek test 19",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "çok satırlı"
+      ],
+      "color": "rose",
+      "createdAt": "2026-10-19T10:00:00.000Z",
+      "updatedAt": "2026-10-19T10:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-046",
+          "text": "Örnek yazar 19. Çok satırlı not testi.\n\nİkinci paragraf: satır aralıklarını ve kartın yüksekliğini kontrol edebilirsin.\n• İlk madde\n• İkinci madde",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-19T10:00:00.000Z",
+          "updatedAt": "2026-10-19T10:00:00.000Z",
+          "version": 1,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": []
+        }
+      ]
+    },
+    {
+      "key": "eksibellek-test-20-047",
+      "username": "eksibellek test 20",
+      "authorId": null,
+      "aliases": [],
+      "tags": [
+        "test",
+        "uzun not"
+      ],
+      "color": "slate",
+      "createdAt": "2026-10-20T10:00:00.000Z",
+      "updatedAt": "2026-10-20T10:00:00.000Z",
+      "notes": [
+        {
+          "id": "eksibellek-test-20-048",
+          "text": "Örnek yazar 20. Uzun not testi. Bu örnek metin, yazar listesindeki önizleme ile ayrıntı ekranının uzun metinleri nasıl gösterdiğini incelemek için hazırlandı. Dar eklenti penceresinde metnin düzgün kayması ve tüm içeriğin okunabilmesi beklenir. Arama, etiket filtresi, düzenleme, arşivleme ve çöp kutusundan geri getirme işlemlerini bu kayıt üzerinde deneyebilirsin.",
+          "sourceUrl": "",
+          "sourceTitle": "",
+          "createdAt": "2026-10-20T10:00:00.000Z",
+          "updatedAt": "2026-10-20T10:00:00.000Z",
+          "version": 1,
+          "archivedAt": null,
+          "trashedAt": null,
+          "history": []
+        }
+      ]
+    }
+  ]
+}
