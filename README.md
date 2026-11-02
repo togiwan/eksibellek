@@ -6,6 +6,8 @@ Ekşi Sözlük yazarları için kişisel hafızan. Bir yazara not bırak; başka
 
 [Proje sayfası](https://togiwan.github.io/eksibellek/) · [Gizlilik](https://togiwan.github.io/eksibellek/privacy.html) · [Sürümler](https://github.com/togiwan/eksibellek/releases) · [Sorun bildir](https://github.com/togiwan/eksibellek/issues)
 
+Projenin vizyonu, kesinleşmiş kararları, tamamlanan işleri ve devam planı [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) içinde tutulur. Yeni geliştirme oturumları için başlangıç talimatları [AGENTS.md](AGENTS.md) dosyasındadır.
+
 ## Ekşi Sözlük üzerinde görünümü
 
 Gerçek Ekşi Sözlük sayfasında EkşiBellek. Ekranlardaki not, tanıtım için ayrı bir test profilinde oluşturulmuş örnek kayıttır; kişisel kullanıcı notları kullanılmamıştır.
