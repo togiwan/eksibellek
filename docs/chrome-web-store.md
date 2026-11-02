@@ -82,8 +82,10 @@ Veri satılmaz; uzantının kişisel not amacı dışındaki kullanımlar için 
 
 - `extension/icons/128.png`: 128 × 128 ikon.
 - `docs/assets/store/screenshot-library.png`: 1280 × 800 gerçek yazar listesi.
-- `docs/assets/store/screenshot-note.png`: 1280 × 800, temsili başlıkta gerçek içerik betiği ve not çerçevesi.
+- `docs/assets/store/screenshot-eksi-note.png`: 1280 × 800, gerçek Ekşi Sözlük sayfasında örnek not kutusu.
+- `docs/assets/store/screenshot-eksi-page.png`: 1280 × 800, gerçek Ekşi Sözlük sayfasındaki yazar düğmeleri.
+- `docs/assets/store/screenshot-eksi-add.png`: 1280 × 800, gerçek Ekşi Sözlük sayfasında not ekleme formu.
 - `docs/assets/store/screenshot-trash.png`: 1280 × 800 gerçek çöp kutusu.
 - `docs/assets/store/promo-small.png`: 440 × 280 küçük tanıtım görseli.
 
-Görseller yalnızca temsili yazarlar/notlar içerir; kişisel test profilinden veri alınmaz.
+Yazar listesi/çöp kutusu görselleri temsili yazarlar içerir. Ekşi Sözlük ekranları gerçek, herkese açık bir sayfadan alınmıştır; üzerindeki not ayrı test profilinde oluşturulmuş örnek kayıttır. Kişisel test profilinden veri alınmaz.

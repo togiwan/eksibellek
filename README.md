@@ -6,12 +6,22 @@ Ekşi Sözlük yazarları için kişisel hafızan. Bir yazara not bırak; başka
 
 [Proje sayfası](https://togiwan.github.io/eksibellek/) · [Gizlilik](https://togiwan.github.io/eksibellek/privacy.html) · [Sürümler](https://github.com/togiwan/eksibellek/releases) · [Sorun bildir](https://github.com/togiwan/eksibellek/issues)
 
-![EkşiBellek paylaşım görseli](docs/assets/social-preview.png)
+## Ekşi Sözlük üzerinde görünümü
+
+Gerçek Ekşi Sözlük sayfasında EkşiBellek. Ekranlardaki not, tanıtım için ayrı bir test profilinde oluşturulmuş örnek kayıttır; kişisel kullanıcı notları kullanılmamıştır.
+
+**Yazar adının başındaki düğme ve açık not kutusu**
+
+![Gerçek Ekşi Sözlük sayfasında EkşiBellek not kutusu](docs/assets/store/screenshot-eksi-note.png)
+
+**Not ekleme formu**
+
+![Gerçek Ekşi Sözlük sayfasında EkşiBellek not ekleme formu](docs/assets/store/screenshot-eksi-add.png)
 
 <details>
-<summary>Proje sitesinin görünümü</summary>
+<summary>Yazar adlarının yanındaki not düğmeleri</summary>
 
-[![EkşiBellek proje sitesi](docs/assets/site-preview.png)](https://togiwan.github.io/eksibellek/)
+![Ekşi Sözlük üzerinde not düğmeleri](docs/assets/store/screenshot-eksi-page.png)
 
 </details>
 
@@ -21,6 +31,8 @@ Ekşi Sözlük yazarları için kişisel hafızan. Bir yazara not bırak; başka
 ![EkşiBellek yazar listesi](docs/assets/store/screenshot-library.png)
 
 </details>
+
+Ekranların alındığı [Ekşi Sözlük başlığı](https://eksisozluk.com/sozluk-yazarlarinin-kitap-onerileri--4952083). Sayfa içeriği ilgili yazarlarına aittir; EkşiBellek, Ekşi Sözlük ile bağlantılı değildir.
 
 ## Neler yapar?
 
