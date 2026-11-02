@@ -10,3 +10,7 @@ test-results/
 
 __pycache__/
 *.pyc
+
+/AGENTS.md
+
+/PROJECT_CONTEXT.md
