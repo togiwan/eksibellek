@@ -6,7 +6,21 @@ Ekşi Sözlük yazarları için kişisel hafızan. Bir yazara not bırak; başka
 
 [Proje sayfası](https://togiwan.github.io/eksibellek/) · [Gizlilik](https://togiwan.github.io/eksibellek/privacy.html) · [Sürümler](https://github.com/togiwan/eksibellek/releases) · [Sorun bildir](https://github.com/togiwan/eksibellek/issues)
 
+![EkşiBellek paylaşım görseli](docs/assets/social-preview.png)
+
+<details>
+<summary>Proje sitesinin görünümü</summary>
+
+[![EkşiBellek proje sitesi](docs/assets/site-preview.png)](https://togiwan.github.io/eksibellek/)
+
+</details>
+
+<details>
+<summary>Eklentinin yazar listesi</summary>
+
 ![EkşiBellek yazar listesi](docs/assets/store/screenshot-library.png)
+
+</details>
 
 ## Neler yapar?
 
