@@ -4,7 +4,7 @@ Ekşi Sözlük yazarları için kişisel hafızan. Bir yazara not bırak; başka
 
 **Ücretsiz · Açık kaynak · MIT lisanslı · Hesapsız · Yerel depolama**
 
-[Proje sayfası](https://togiwan.github.io/eksibellek/) · [Gizlilik](https://togiwan.github.io/eksibellek/privacy.html) · [Sürümler](https://github.com/togiwan/eksibellek/releases) · [Sorun bildir](https://github.com/togiwan/eksibellek/issues)
+[Chrome Web Store](https://chromewebstore.google.com/detail/ek%C5%9Fibellek/pdjlhiljfimgkfeeliipmphdbdhjneia) · [Proje sayfası](https://togiwan.github.io/eksibellek/) · [Gizlilik](https://togiwan.github.io/eksibellek/privacy.html) · [Sürümler](https://github.com/togiwan/eksibellek/releases) · [Sorun bildir](https://github.com/togiwan/eksibellek/issues)
 
 ## Ekşi Sözlük üzerinde görünümü
 
@@ -47,7 +47,13 @@ Ekranların alındığı [Ekşi Sözlük başlığı](https://eksisozluk.com/soz
 
 ## Kurulum
 
-Chrome Web Store başvurusu Google incelemesinde. Onaylanana kadar [Sürümler](https://github.com/togiwan/eksibellek/releases) sayfasından en güncel ZIP dosyasını indirip elle kurabilirsin:
+EkşiBellek [Chrome Web Store'da yayımlandı](https://chromewebstore.google.com/detail/ek%C5%9Fibellek/pdjlhiljfimgkfeeliipmphdbdhjneia). Chrome'da mağaza sayfasını açıp **Chrome'a ekle** düğmesiyle kur. Ardından açık Ekşi Sözlük sayfalarını yenile ve EkşiBellek'i araç çubuğuna sabitle.
+
+**Paketlenmemiş kurulumdan geçiyorsan:** Eski eklentide önce **Yedekleme > JSON dosyasını indir** ile yedek al. Mağaza sürümünde bu dosyayı içe aktar; yazarlarını, notlarını, çöp kutusunu ve geçmişini doğrulamadan eski kurulumu kaldırma. İki kurulumun yerel kayıtları otomatik paylaşılmaz.
+
+### Alternatif: ZIP veya kaynak kodundan kurulum
+
+[Sürümler](https://github.com/togiwan/eksibellek/releases) sayfasından en güncel ZIP dosyasını indirip elle kurabilirsin:
 
 1. ZIP dosyasını kalıcı olarak kullanacağın bir klasöre çıkar.
 2. Chrome'da `chrome://extensions` sayfasını açıp **Geliştirici modu**nu etkinleştir.

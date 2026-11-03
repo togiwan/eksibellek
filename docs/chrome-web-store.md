@@ -101,4 +101,9 @@ Yazar listesi/çöp kutusu görselleri temsili yazarlar içerir. Ekşi Sözlük 
 - Gizlilik sayfası HTTPS üzerinden HTTP 200 ile doğrulandı. Yerel işleme dahil üç veri kategorisi açıklandı; uzaktan kod kullanılmadığı belirtildi.
 - Paket SHA-256: `e335d29cafa1d6b07ddb6b9fd9c0ad2c12dc0d0e4fd9e32d9d0f36ef2f7776be`.
 
-Google'ın inceleme kararı henüz alınmadı; başvuru gönderilmesi mağazada yayımlandığı anlamına gelmez.
+## Yayın durumu — 3 Kasım 2026
+
+- 0.1.9 sürümünün herkese açık [Chrome Web Store sayfası](https://chromewebstore.google.com/detail/ek%C5%9Fibellek/pdjlhiljfimgkfeeliipmphdbdhjneia) açıldı; **Chrome'a ekle**, yayıncı **Ombryn** ve sürüm **0.1.9** bilgileri görüldü.
+- Mağaza sayfasında güncelleme tarihi 3 Kasım 2026 olarak görünüyor.
+- Doğrudan mağaza bağlantısı çalışır; arama sonuçlarındaki görünürlük ayrıca doğrulanmadı. Google'ın [keşfedilme belgesine](https://developer.chrome.com/docs/webstore/discovery) göre yeni yayınların arama dizinine eklenmesi birkaç saat sürebilir; bu kesin bir süre garantisi değildir.
+- Paketlenmemiş kurulumdan geçmeden önce JSON yedeği alınmalı, mağaza kurulumuna içe aktarılmalı ve kayıtlar doğrulanmalıdır. Eski kurulum doğrulamadan kaldırılmamalıdır.

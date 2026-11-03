@@ -2,6 +2,7 @@
 
 ## 0.1.9 — 2 Kasım 2026
 
+- Chrome Web Store yayını 3 Kasım 2026'da doğrulandı: [EkşiBellek](https://chromewebstore.google.com/detail/ek%C5%9Fibellek/pdjlhiljfimgkfeeliipmphdbdhjneia).
 - İlk genel yayın için MIT lisansı ve kaynak kodu/gizlilik/destek bağlantıları eklendi.
 - Mağaza açıklamaları, tanıtım görselleri ve herkese açık gizlilik sayfası hazırlandı.
 - Pakete lisans bildirimi eklendi; mevcut kayıt anahtarları ve yedek biçimi korundu.
